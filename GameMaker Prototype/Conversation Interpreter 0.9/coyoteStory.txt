@@ -1,0 +1,30 @@
+1: 1.wav; "One time Yellow Jacket was coming along carrying his children in a bag. Coyote met him."; player; 2.
+2: 2.wav; " 'Codi, what are you carrying in that bag?' Coyote asked. " ; player; 3.
+3: 3.wav; "'I carry my children in there,' said Yellow Jacket." ; player; 4.
+4: 4.wav; "'No, that can't be true. I never carry my children that way,' replied Coyote." ; player; 5.
+5: 5.wav; "'You must have something else.'"; player; 6.
+6: 6.wav; "'No, I am carrying my children. Come close and you can hear them.'"; player; 7.
+7: 7.wav; "Coyote still insisted that Yellow Jacket did not have his children in the bag." ; player; 8.
+8: 8.wav; "Coyote kept asking what was in it."; player; 9.
+9: 9.wav; "Yellow Jacket then said, 'I'll tell you. The people have had a feast over there...'"; player; 10.
+10: 10.wav; "'...and they gave me fruit of all kinds to carry home. This is the fruit.'"; player; 11.
+11: 11.wav; "Coyote wanted some of the fruit too."; player; 12.
+12: 12.wav; "Yellow Jacket got tired. He said, 'All right', and he handed Coyote the package."; player; 13.
+13: 13.wav; "Coyote told him, 'I'll go ahead. You rest and when you want to, you can catch up to me.'"; player; 14.
+14: 14.wav; "Coyote went ahead. He looked back. Yellow Jacket was still sitting there."; player; 15.
+15: 15.wav; "So Coyote ran off to the side and made straight for his home with the bundle."; player; 16.
+16: 16.wav; "He thought he was bringing his children something good to eat."; player; 17.
+17: 17.wav; "The yellow jacket rested and then came on. He couldn't find Coyote."; player; 18.
+18: 18.wav; "Coyote got home with his bag. He called his children."; player; 42.
+42: 42.wav; "Coyote said, 'Now all gather around. We are going to have a feast on something good.'"; player; 19.
+19: 19.wav; "The children were very eager to eat. They gathered around and his wife came close too." ; player; 20.
+20: 20.wav; "Coyote put in his hand. One wasp stung his hand." ; player; 21.
+21: 21.wav; "Coyote said, 'I must have laid this bag on a thorn. One pierced my hand.'"; player; 22.
+22: 22.wav; "He still didn't know what was in there. He put in his hand again and got stung even harder."; player; 23.
+23: 23.wav; "This time he pulled his hand out so fast that the bag broke and the yellow jackets flew out."; player; 24.
+24: 24.wav; "They attacked the whole family. The children ran to the bushes and so did Coyote and his wife..."; player; 25.
+25: 25.wav; "But the yellow jackets got in their fur and kept on stinging them."; player; 26.
+26: 26.wav; "After a while the yellow jackets flew away, for they heard their mother calling them."; player; 27.
+27: 27.wav; "Then Coyote and his family gathered together. Their faces were all swollen."; player; 28.
+28: 28.wav; "Coyote's eyes were swollen shut."; player; 29.
+29: 29.wav; "The end!"; player; 30.
