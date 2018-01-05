@@ -1,0 +1,8 @@
+1: (1.wav);  "I like Snoopy"; other; 2,4,79,42,25.
+2: (2.wav);  "What's wrong with you, man?"; player; 3.
+3: (3.wav);  "Nothing at all."; other; !.
+4: (4.wav); "Cool, me too!" ; player; 5.
+5: (5.wav); "I'm so glad..."; other; !.
+79: (79.wav);  "Sonic is better"; player; !.
+42: (42.wav);  "Whatever you say, dude!"; player; !.
+25: (25.wav);  "Yeah, he's kinda cute!!"; player; !.

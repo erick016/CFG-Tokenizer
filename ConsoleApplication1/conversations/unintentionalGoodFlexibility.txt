@@ -1,0 +1,5 @@
+we can type multiple colons or semicolons and use them as delimiters.
+we can index the lines by anything.
+
+
+the best excellence is to have true altruism.
