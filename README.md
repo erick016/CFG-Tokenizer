@@ -1,5 +1,5 @@
 # CFG-Tokenizer
-Tokenizer for Peyak Conversation Language 0.2. PCL is supposed to defines a graph data structure. An end-user can step through this graph via the links which are attached to the nodes. Each node is represented by one line. At the end of the line, neighbor nodes are listed. 
+Tokenizer for Peyak Conversation Language 0.2. PCL is supposed to define a graph data structure. An end-user can step through this graph via the links which are attached to the nodes. Each node is represented by one line. At the end of the line, neighbor nodes are listed. 
 
 On each line, there are several middle clauses. These list media and string data which is associated with a given node.
 
